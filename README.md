@@ -66,6 +66,3 @@ pip install pandas numpy matplotlib seaborn jupyter
 - Understanding different visualization techniques.
 - Creating customized charts using Matplotlib and Seaborn.
 - Interpreting visual patterns and analytical insights.
-
-## 👩‍💻 Author
-Data Visualization using Python – Learning Project.
